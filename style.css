@@ -25,13 +25,13 @@ body {
 }
 
 h1 {
-    color: #bd8cff;
+    color: #1c1c1d;
     margin-bottom: 10px;
 }
 
 p {
     margin: 15px 0;
-    color: #ccc;
+    color: rgb(19, 18, 18);
 }
 
 input {
